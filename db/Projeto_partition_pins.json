@@ -1,0 +1,229 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "a1_uni_num",
+					"strict" : false
+				},
+				{
+					"name" : "led_sinal_soma",
+					"strict" : false
+				},
+				{
+					"name" : "a_uni",
+					"strict" : false
+				},
+				{
+					"name" : "b_uni",
+					"strict" : false
+				},
+				{
+					"name" : "c_uni",
+					"strict" : false
+				},
+				{
+					"name" : "d_uni",
+					"strict" : false
+				},
+				{
+					"name" : "e_uni",
+					"strict" : false
+				},
+				{
+					"name" : "f_uni",
+					"strict" : false
+				},
+				{
+					"name" : "g_uni",
+					"strict" : false
+				},
+				{
+					"name" : "a_dez",
+					"strict" : false
+				},
+				{
+					"name" : "d_dez",
+					"strict" : false
+				},
+				{
+					"name" : "e_dez",
+					"strict" : false
+				},
+				{
+					"name" : "f_dez",
+					"strict" : false
+				},
+				{
+					"name" : "g_dez",
+					"strict" : false
+				},
+				{
+					"name" : "c_dez",
+					"strict" : false
+				},
+				{
+					"name" : "led_status",
+					"strict" : false
+				},
+				{
+					"name" : "a_uni_num",
+					"strict" : false
+				},
+				{
+					"name" : "b_uni_num",
+					"strict" : false
+				},
+				{
+					"name" : "c_uni_num",
+					"strict" : false
+				},
+				{
+					"name" : "d_uni_num",
+					"strict" : false
+				},
+				{
+					"name" : "e_uni_num",
+					"strict" : false
+				},
+				{
+					"name" : "f_uni_num",
+					"strict" : false
+				},
+				{
+					"name" : "g_uni_num",
+					"strict" : false
+				},
+				{
+					"name" : "a_dez_num",
+					"strict" : false
+				},
+				{
+					"name" : "d_dez_num",
+					"strict" : false
+				},
+				{
+					"name" : "e_dez_num",
+					"strict" : false
+				},
+				{
+					"name" : "f_dez_num",
+					"strict" : false
+				},
+				{
+					"name" : "a1_dez_num",
+					"strict" : false
+				},
+				{
+					"name" : "f1_dez_num",
+					"strict" : false
+				},
+				{
+					"name" : "e1_dez_num",
+					"strict" : false
+				},
+				{
+					"name" : "d1_dez_num",
+					"strict" : false
+				},
+				{
+					"name" : "b1_uni_num",
+					"strict" : false
+				},
+				{
+					"name" : "c1_uni_num",
+					"strict" : false
+				},
+				{
+					"name" : "d1_uni_num",
+					"strict" : false
+				},
+				{
+					"name" : "e1_uni_num",
+					"strict" : false
+				},
+				{
+					"name" : "f1_uni_num",
+					"strict" : false
+				},
+				{
+					"name" : "g1_uni_num",
+					"strict" : false
+				},
+				{
+					"name" : "F[4]",
+					"strict" : false
+				},
+				{
+					"name" : "F[3]",
+					"strict" : false
+				},
+				{
+					"name" : "F[2]",
+					"strict" : false
+				},
+				{
+					"name" : "F[1]",
+					"strict" : false
+				},
+				{
+					"name" : "F[0]",
+					"strict" : false
+				},
+				{
+					"name" : "B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "B[4]",
+					"strict" : false
+				},
+				{
+					"name" : "A[4]",
+					"strict" : false
+				},
+				{
+					"name" : "A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "S[0]",
+					"strict" : false
+				},
+				{
+					"name" : "S[2]",
+					"strict" : false
+				},
+				{
+					"name" : "S[1]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,94 @@
+$comment
+	File created using the following command:
+		vcd file Projeto.msim.vcd -direction
+$end
+$date
+	Tue Jun  4 12:31:14 2024
+$end
+$version
+	ModelSim Version 2020.1
+$end
+$timescale
+	1ps
+$end
+
+$scope module Display_Dezenas_vlg_vec_tst $end
+$var reg 1 ! F0 $end
+$var reg 1 " F1 $end
+$var reg 1 # F2 $end
+$var reg 1 $ F3 $end
+$var reg 1 % F4 $end
+$var wire 1 & F10 $end
+$var wire 1 ' F11 $end
+$var wire 1 ( F12 $end
+$var wire 1 ) F13 $end
+$var wire 1 * F14 $end
+$var wire 1 + F15 $end
+$var wire 1 , F16 $end
+
+$scope module i1 $end
+$var wire 1 - gnd $end
+$var wire 1 . vcc $end
+$var wire 1 / unknown $end
+$var tri1 1 0 devclrn $end
+$var tri1 1 1 devpor $end
+$var tri1 1 2 devoe $end
+$var wire 1 3 F0~input_o $end
+$var wire 1 4 F16~output_o $end
+$var wire 1 5 F15~output_o $end
+$var wire 1 6 F14~output_o $end
+$var wire 1 7 F13~output_o $end
+$var wire 1 8 F10~output_o $end
+$var wire 1 9 F12~output_o $end
+$var wire 1 : F11~output_o $end
+$var wire 1 ; F4~input_o $end
+$var wire 1 < F3~input_o $end
+$var wire 1 = F2~input_o $end
+$var wire 1 > inst6|inst1~0_combout $end
+$var wire 1 ? F1~input_o $end
+$var wire 1 @ inst20~0_combout $end
+$var wire 1 A inst17~0_combout $end
+$var wire 1 B inst4~0_combout $end
+$var wire 1 C inst6|inst1~combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+1"
+1#
+0$
+0%
+1&
+1'
+1(
+1)
+1*
+1+
+0,
+0-
+1.
+x/
+10
+11
+12
+03
+04
+15
+16
+17
+18
+19
+1:
+0;
+0<
+1=
+0>
+1?
+1@
+1A
+1B
+1C
+$end
+#1000000
